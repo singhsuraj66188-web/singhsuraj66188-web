@@ -1,4 +1,4 @@
-👋 Hi, I'm Suraj Singh
+👋 Hi, I'm Suraj Baliarsingh
 
 💻 CSE Student | Python Developer | Aspiring Software Engineer
 
