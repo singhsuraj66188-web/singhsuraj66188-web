@@ -1,16 +1,78 @@
-## Hi there 👋
+👋 Hi, I'm Suraj Singh
 
-<!--
-**singhsuraj66188-web/singhsuraj66188-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Student | Python Developer | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a **B.Tech Computer Science Engineering student** interested in building practical software projects and strengthening my problem-solving skills through **Data Structures & Algorithms**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🎓 B.Tech Computer Science Engineering
+- 🐍 Python Developer
+- 🤖 Interested in AI / Machine Learning
+- 🔐 Interested in Cybersecurity
+- 🧠 Practicing Data Structures & Algorithms
+- 💻 Building practical software projects
+- 📚 Continuously learning new technologies
+
+🛠️ Technical Skills
+
+**Languages**
+- Python
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+**Technologies**
+- Flask
+- SQLite
+- Chart.js
+- Git & GitHub
+
+**Areas of Interest**
+- Software Development
+- AI / Machine Learning
+- Cybersecurity
+- Data Structures & Algorithms
+
+🚀 Featured Project
+
+🛡️ SentinelX — Cybersecurity Monitoring System
+
+A Windows-based cybersecurity monitoring system that:
+
+- Monitors system activity
+- Detects suspicious processes
+- Calculates security risk
+- Monitors network connections
+- Logs security events
+- Provides a Flask REST API
+- Visualizes security information through a web dashboard
+
+🔗 **[View SentinelX](https://github.com/singhsuraj66188-web/SentinelX)**
+
+🧠 DSA Journey
+
+Currently practicing common Data Structures & Algorithms patterns on **LeetCode**.
+
+Focus areas:
+
+`Arrays & Hashing` • `Two Pointers` • `Sliding Window` • `Stack` • `Binary Search` • `Linked Lists` • `Trees` • `Graphs` • `Dynamic Programming`
+
+📌 Current Focus
+
+- Improving problem-solving skills
+- Building practical projects
+- Learning AI / ML
+- Strengthening Python
+- Preparing for software development opportunities
+
+🔗 Connect With Me
+
+💼 **[LinkedIn](https://www.linkedin.com/in/suraj-baliar-singh-701744358/)**
+
+💻 **[GitHub](https://github.com/singhsuraj66188-web)**
+
+---
+
+⭐ Thanks for visiting my profile!
